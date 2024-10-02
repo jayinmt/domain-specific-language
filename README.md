@@ -71,7 +71,7 @@ To get started with the Kotlin DSL for building and manipulating complex data st
 
 1. Clone the repository:
    ```
-   git clone https://github.com/jaydxyz/domain-specific-language.git
+   git clone https://github.com/jayinmt/domain-specific-language.git
    ```
 
 2. Open the project in your preferred Kotlin IDE.
